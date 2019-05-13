@@ -1,0 +1,83 @@
+Please input the value for All modules
+-11
+The value -11 is not valid.
+Please enter a value between 0 and 100
+Please input the value for All modules
+100
+Please input the value for Outright failed
+100
+The value 100 is not valid.
+Please enter a value between 0 and 11
+Please input the value for Outright failed
+0
+
+Continue grading? (y/n)
+
+y
+*********** Degree Classification Program *********
+Please input the value for All modules average
+100
+Please input the value for ISM modules average
+100
+Please input the value for Compensatable Failed Modules
+0
+Please input the value for Outright Failed Modules
+0
+The degree grade is: distinction
+
+Continue grading? (y/n)
+
+y
+Please input the value for All modules average
+70
+Please input the value for ISM modules average
+100
+Please input the value for Compensatable Failed Modules
+0
+Please input the value for Outright Failed Modules
+0
+The degree grade is: distinction
+
+Continue grading? (y/n)
+
+y
+Please input the value for All modules average
+60
+Please input the value for ISM modules average
+100
+Please input the value for Compensatable Failed Modules
+0
+Please input the value for Outright Failed Modules
+0
+The degree grade is: merit
+
+Continue grading? (y/n)
+
+y
+Please input the value for All modules average
+50
+Please input the value for ISM modules average
+50
+Please input the value for Compensatable Failed Modules
+1
+Please input the value for Outright Failed Modules
+1
+The degree grade is: pass
+
+Continue grading? (y/n)
+
+y
+Please input the value for All modules average
+100
+Please input the value for ISM modules average
+100
+Please input the value for Compensatable Failed Modules
+2
+Please input the value for Outright Failed Modules
+1
+The degree grade is: fail
+
+Continue grading? (y/n)
+
+n
+Bye...
